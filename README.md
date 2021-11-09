@@ -1,7 +1,7 @@
 ## Olá, sou Marcos Felipe
-🚀   Buscando novos desafios
-💜   Buscando colaborar com projetos desafiadores
-💻   Minha stack: HTML, CSS e JavaScript
+🚀   Buscando novos desafios<br>
+💜   Buscando colaborar com projetos desafiadores<br>
+💻   Minha stack: HTML, CSS e JavaScript<br>
 📘   estudando para se tornar um desenvolvedor full stack
 <div align="center">
   <a href="https://github.com/MarcosFelipe19">
