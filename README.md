@@ -1,4 +1,8 @@
-## Olá, sou Marcos Felipe, estudando para se tornar um desenvolvedor full stack
+## Olá, sou Marcos Felipe
+🚀   Buscando novos desafios
+💜   Buscando colaborar com projetos desafiadores
+💻   Minha stack: HTML, CSS e JavaScript
+📘   estudando para se tornar um desenvolvedor full stack
 <div align="center">
   <a href="https://github.com/MarcosFelipe19">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marcosfelipe19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
