@@ -5,7 +5,7 @@
 <div style="text-aling=center">
   <a href="https://github.com/MarcosFelipe19">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosFelipe19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFelipe19&layout=compact&langs_count=2&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFelipe19&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline-block"><br>
   <img align="center" alt="MF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
