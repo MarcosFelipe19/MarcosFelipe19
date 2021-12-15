@@ -3,7 +3,7 @@
 💜   Buscando colaborar com projetos desafiadores<br>
 💻   Minha stack: HTML, CSS e JavaScript<br>
 📘   estudando para se tornar um desenvolvedor full stack
-<div>
+<div style="text-aling=">
   <a href="https://github.com/MarcosFelipe19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosFelipe19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFelipe19&layout=compact&langs_count=7&theme=dark"/>
@@ -14,6 +14,7 @@
   <img align="center" alt="MF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MF-JAVA" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="MF-NODE" height="30" width="60"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="MF-MYSQL" height="30" width="60"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   
   ##
