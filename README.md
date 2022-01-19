@@ -1,7 +1,6 @@
 ## Olá, sou Marcos Felipe
 🚀   Buscando novos desafios<br>
 💜   Buscando colaborar com projetos desafiadores<br>
-📘   estudando para se tornar um desenvolvedor full stack
 <div style="text-aling=center">
   <a href="https://github.com/MarcosFelipe19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosFelipe19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
